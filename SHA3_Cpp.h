@@ -1,5 +1,4 @@
 //Edit by zq
-//All right reserved
 //zq0003@163.com
 //Version 1.2t
 //20161123
